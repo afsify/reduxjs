@@ -187,5 +187,5 @@ npm uninstall redux
 In the terminal, use the following command:
 
 ```bash
-git clone https://github.com/afsify/redux.git
+git clone https://github.com/afsify/reduxjs.git
 ```
